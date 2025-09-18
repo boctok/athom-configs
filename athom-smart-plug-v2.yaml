@@ -90,8 +90,8 @@ logger:
   level: ${log_level}
   baud_rate: 0
 
-mdns:
-  disabled: false
+#mdns:
+#  disabled: false
 
 web_server:
   port: 80
