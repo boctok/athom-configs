@@ -59,7 +59,7 @@ api:
 ota:
   - platform: esphome
 
-#mdns:
+#m:
 #  disabled: false
 
 web_server:
@@ -79,7 +79,7 @@ wifi:
 captive_portal:
 
 dashboard_import:
-  package_import_url: github://athom-tech/athom-configs/athom-presence-sensor.yaml
+  package_import_url: github://boctok/athom-configs/athom-presence-sensor.yaml
 
 light:
   - platform: status_led
